@@ -14,6 +14,4 @@ This project analyzes the impact of weather events (snowfall, rainfall, temperat
 - **Database:** Snowflake
 - **Languages:** SQL (Views, Tables, Materialized Views, Stored Procedures, Functions)
 - **Data Sources:** Global Weather & Climate Data for BI, US ZIP codes
-- **Other Concepts:** ETL/ELT, Data Curation, Aggregation, Performance Optimization
-
-### Project Structure
+- **Other Concepts:** ETL/ELT, Data Curation, Aggregation, Performance Optimizatio
